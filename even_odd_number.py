@@ -1,5 +1,5 @@
 #CONSTANT VARIABLE
-MAX_NUMBER = 20
+MAX_NUMBER = 30
 
 #even number function
 def even_odd_num(): #named a variable with a descriptive name
